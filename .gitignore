@@ -5,10 +5,12 @@
 /lib/Cake/Console/Templates/skel/tmp/
 /plugins
 /vendors
+/vendor
 /build
 /dist
 /tags
 *.mo
+composer.lock
 
 # IDE and editor specific files #
 #################################
